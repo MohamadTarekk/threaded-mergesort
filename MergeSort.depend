@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572633028 source:/home/mohamad/CodeBlocks/MergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
